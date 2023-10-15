@@ -1,3 +1,4 @@
+USE db_tecsup;
 
 CREATE TABLE IF NOT EXISTS `tbl_alumno` (
   `alumno_id` int(11) NOT NULL AUTO_INCREMENT,
